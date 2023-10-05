@@ -1,6 +1,7 @@
 {
   "packs": [
-    "Kurimanjuu.json"
+    "Kurimanjuu.json",
+    ".json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
